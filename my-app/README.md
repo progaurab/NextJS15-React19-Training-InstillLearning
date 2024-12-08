@@ -42,4 +42,4 @@ Step 2: Run the app
 $ cd my-app
 $ npm run dev
 ```
-![Screenshot](./my-app/Screenshot2.png "Optional Title Text")
+![Screenshot](Screenshot2.png "Optional Title Text")
